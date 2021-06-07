@@ -2,10 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://onecoder.site/categories/</loc>
-  </url><url>
     <loc>https://onecoder.site/</loc>
+    <lastmod>2021-06-07T10:20:58+08:00</lastmod>
+  </url><url>
+    <loc>https://onecoder.site/posts/</loc>
+    <lastmod>2021-06-07T10:20:58+08:00</lastmod>
   </url><url>
     <loc>https://onecoder.site/tags/</loc>
+    <lastmod>2021-06-07T10:20:58+08:00</lastmod>
+  </url><url>
+    <loc>https://onecoder.site/tags/%E5%85%AC%E5%91%8A/</loc>
+    <lastmod>2021-06-07T10:20:58+08:00</lastmod>
+  </url><url>
+    <loc>https://onecoder.site/posts/hello/</loc>
+    <lastmod>2021-06-07T10:20:58+08:00</lastmod>
+  </url><url>
+    <loc>https://onecoder.site/archives/</loc>
+  </url><url>
+    <loc>https://onecoder.site/categories/</loc>
   </url>
 </urlset>

@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>OneCoder</title>
-    <link>https://onecoder.site/</link>
-    <description>Recent content on OneCoder</description>
+    <title>Posts on OneCoder</title>
+    <link>https://onecoder.site/posts/</link>
+    <description>Recent content in Posts on OneCoder</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 07 Jun 2021 10:20:58 +0800</lastBuildDate><atom:link href="https://onecoder.site/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 07 Jun 2021 10:20:58 +0800</lastBuildDate><atom:link href="https://onecoder.site/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>新网站说明</title>
       <link>https://onecoder.site/posts/hello/</link>
@@ -18,7 +18,6 @@
  随着年龄的增长，早期的博客文章，越来越不符合内心的预期  早期的博文，很多都是类似笔记，杂乱且缺乏一定的逻辑。很多的技术文章，缺乏一定的前提预置条件。
 后期企划 后期，希望能输出一点高质量的博文。起码能对人有所启发，无论是技术抑或是思想。</description>
     </item>
-    
     
   </channel>
 </rss>
