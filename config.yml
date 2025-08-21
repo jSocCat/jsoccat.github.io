@@ -1,6 +1,6 @@
 baseURL: "https://onecoder.site/"
 title: OneCoder
-paginate: 5
+pagination.pagerSize: 5
 theme: PaperMod
 
 enableRobotsTXT: true
